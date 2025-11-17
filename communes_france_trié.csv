@@ -1,0 +1,1069 @@
+nom_standard,reg_code,reg_nom,dep_code,dep_nom,EPCI,population,superficie_km2,densite
+Ambérieu-en-Bugey,84,Auvergne-Rhône-Alpes,01,Ain,240100883,14288,24,580.81
+Valserhône,84,Auvergne-Rhône-Alpes,01,Ain,240100891,16434,15,262.82
+Bourg-en-Bresse,84,Auvergne-Rhône-Alpes,01,Ain,200071751,41681,24,1746.9
+Ferney-Voltaire,84,Auvergne-Rhône-Alpes,01,Ain,240100750,10612,5,2220.08
+Gex,84,Auvergne-Rhône-Alpes,01,Ain,240100750,13177,32,411.52
+Miribel,84,Auvergne-Rhône-Alpes,01,Ain,240100800,10202,24,416.58
+Oyonnax,84,Auvergne-Rhône-Alpes,01,Ain,200042935,22271,36,615.56
+Saint-Genis-Pouilly,84,Auvergne-Rhône-Alpes,01,Ain,240100750,14274,10,1461.0
+Château-Thierry,32,Hauts-de-France,02,Aisne,200072031,15306,17,924.83
+Chauny,32,Hauts-de-France,02,Aisne,200071785,11438,13,861.3
+Laon,32,Hauts-de-France,02,Aisne,200043495,24091,45,573.6
+Saint-Quentin,32,Hauts-de-France,02,Aisne,200071892,53100,23,2353.72
+Soissons,32,Hauts-de-France,02,Aisne,240200477,28888,12,2344.81
+Tergnier,32,Hauts-de-France,02,Aisne,200071785,13504,18,752.31
+Villers-Cotterêts,32,Hauts-de-France,02,Aisne,200071991,10392,42,249.15
+Cusset,84,Auvergne-Rhône-Alpes,03,Allier,200071363,12677,32,397.02
+Montluçon,84,Auvergne-Rhône-Alpes,03,Allier,200071082,33822,21,1636.28
+Moulins,84,Auvergne-Rhône-Alpes,03,Allier,200071140,19444,9,2258.3
+Vichy,84,Auvergne-Rhône-Alpes,03,Allier,200071363,25372,6,4337.09
+Yzeure,84,Auvergne-Rhône-Alpes,03,Allier,200071140,12701,43,293.73
+Digne-les-Bains,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,200067437,16864,110,144.05
+Manosque,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,200034700,23018,57,405.75
+Briançon,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,240500439,10780,28,384.04
+Gap,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,200067825,40111,109,363.23
+Antibes,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600585,74709,27,2821.34
+Beausoleil,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600551,13153,3,4714.34
+Cagnes-sur-Mer,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200030195,52100,18,2902.51
+Cannes,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200039915,72435,21,3691.9
+Le Cannet,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200039915,42125,8,5463.68
+Carros,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200030195,12875,15,852.08
+Grasse,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200039857,48708,44,1096.04
+Mandelieu-la-Napoule,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200039915,21772,32,694.04
+Menton,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600551,30679,14,2183.56
+Mouans-Sartoux,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200039857,10215,13,755.55
+Mougins,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200039915,20180,26,787.05
+Nice,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200030195,343477,74,4775.82
+Roquebrune-Cap-Martin,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600551,12966,10,1389.71
+Saint-Laurent-du-Var,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200030195,30141,9,2981.31
+La Trinité,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200030195,10103,15,678.05
+Valbonne,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600585,13162,20,693.83
+Vallauris,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600585,27970,13,2144.94
+Vence,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,200030195,19315,39,492.35
+Villeneuve-Loubet,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,240600585,16329,20,833.11
+Annonay,84,Auvergne-Rhône-Alpes,07,Ardèche,200072015,16359,21,771.65
+Aubenas,84,Auvergne-Rhône-Alpes,07,Ardèche,200073245,12403,15,866.13
+Guilherand-Granges,84,Auvergne-Rhône-Alpes,07,Ardèche,200041366,10965,7,1674.05
+Tournon-sur-Rhône,84,Auvergne-Rhône-Alpes,07,Ardèche,200073096,10835,21,515.71
+Charleville-Mézières,44,Grand Est,08,Ardennes,200041630,46388,32,1475.45
+Sedan,44,Grand Est,08,Ardennes,200041630,16376,16,1005.9
+Pamiers,76,Occitanie,09,Ariège,200066231,15938,46,347.61
+La Chapelle-Saint-Luc,44,Grand Est,10,Aube,200069250,12324,10,1175.95
+Romilly-sur-Seine,44,Grand Est,10,Aube,200000545,14623,25,577.53
+Saint-André-les-Vergers,44,Grand Est,10,Aube,200069250,12701,6,2167.41
+Sainte-Savine,44,Grand Est,10,Aube,200069250,10496,8,1390.2
+Troyes,44,Grand Est,10,Aube,200069250,62597,13,4742.2
+Carcassonne,76,Occitanie,11,Aude,200035715,46673,65,717.16
+Castelnaudary,76,Occitanie,11,Aude,200035855,12467,48,261.25
+Lézignan-Corbières,76,Occitanie,11,Aude,200035863,11112,38,294.9
+Limoux,76,Occitanie,11,Aude,200071926,10161,33,313.51
+Narbonne,76,Occitanie,11,Aude,241100593,56123,175,324.49
+Millau,76,Occitanie,12,Aveyron,241200567,21482,170,127.69
+Onet-le-Château,76,Occitanie,12,Aveyron,241200187,11797,40,293.46
+Rodez,76,Occitanie,12,Aveyron,241200187,24397,11,2182.2
+Villefranche-de-Rouergue,76,Occitanie,12,Aveyron,200069383,11681,46,254.77
+Aix-en-Provence,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,147122,188,790.64
+Allauch,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,21546,50,428.35
+Arles,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300417,50968,758,67.16
+Aubagne,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,47190,55,859.56
+Auriol,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,12667,45,283.76
+Berre-l'Étang,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,13834,44,317.0
+Bouc-Bel-Air,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,14984,22,688.92
+Cabriès,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,10006,37,273.76
+Châteauneuf-les-Martigues,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,17809,33,562.69
+Châteaurenard,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200035087,16201,35,463.55
+La Ciotat,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,36441,32,1158.33
+Fos-sur-Mer,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,15512,89,168.04
+Fuveau,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,10164,30,338.57
+Gardanne,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,21501,27,795.74
+Istres,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,44438,114,390.73
+Lambesc,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,10018,65,153.32
+Marignane,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,32515,24,1403.93
+Marseille,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,870321,241,3616.99
+Martigues,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,48506,74,678.98
+Miramas,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,26433,26,1026.92
+Pélissanne,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,10561,19,552.64
+Les Pennes-Mirabeau,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,21897,34,650.53
+Plan-de-Cuques,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,11522,9,1352.35
+Port-de-Bouc,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,16290,12,1421.47
+Rognac,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,12136,18,695.07
+Saint-Martin-de-Crau,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300417,13364,215,62.2
+Salon-de-Provence,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,45009,71,640.24
+Septèmes-les-Vallons,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,11366,18,637.11
+Tarascon,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300417,15508,74,209.65
+Trets,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,10507,70,149.44
+Vitrolles,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200054807,34418,37,940.9
+Marseille 1er Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,39265,2,3616.99
+Marseille 2e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,23898,4,3616.99
+Marseille 3e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,52277,3,3616.99
+Marseille 4e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,49636,3,3616.99
+Marseille 5e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,45098,2,3616.99
+Marseille 6e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,40734,2,3616.99
+Marseille 7e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,34596,6,3616.99
+Marseille 8e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,82155,21,3616.99
+Marseille 9e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,76053,64,3616.99
+Marseille 10e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,59131,11,3616.99
+Marseille 11e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,57519,34,3616.99
+Marseille 12e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,61931,14,3616.99
+Marseille 13e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,91959,28,3616.99
+Marseille 14e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,60968,16,3616.99
+Marseille 15e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,79092,17,3616.99
+Marseille 16e Arrondissement,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,241300391,16009,14,3616.99
+Bayeux,28,Normandie,14,Calvados,241400555,12640,7,1780.28
+Caen,28,Normandie,14,Calvados,200065597,107250,26,4173.15
+Hérouville-Saint-Clair,28,Normandie,14,Calvados,200065597,22150,11,2081.77
+Ifs,28,Normandie,14,Calvados,200065597,11902,9,1313.69
+Lisieux,28,Normandie,14,Calvados,200069532,19755,13,1511.48
+Mondeville,28,Normandie,14,Calvados,200065597,10054,9,1110.94
+Vire Normandie,28,Normandie,14,Calvados,200068799,16935,23,122.26
+Aurillac,84,Auvergne-Rhône-Alpes,15,Cantal,241500230,25703,29,893.71
+Angoulême,75,Nouvelle-Aquitaine,16,Charente,200071827,41407,22,1895.06
+Cognac,75,Nouvelle-Aquitaine,16,Charente,200070514,18606,15,1200.39
+Rochefort,75,Nouvelle-Aquitaine,17,Charente-Maritime,200041762,23410,22,1066.51
+La Rochelle,75,Nouvelle-Aquitaine,17,Charente-Maritime,241700434,77210,32,2715.79
+Royan,75,Nouvelle-Aquitaine,17,Charente-Maritime,241700640,18638,20,965.7
+Saintes,75,Nouvelle-Aquitaine,17,Charente-Maritime,200036473,25412,46,557.89
+Bourges,24,Centre-Val de Loire,18,Cher,241800507,64362,69,936.31
+Vierzon,24,Centre-Val de Loire,18,Cher,200090561,25045,75,336.17
+Brive-la-Gaillarde,75,Nouvelle-Aquitaine,19,Corrèze,200043172,45910,48,944.84
+Tulle,75,Nouvelle-Aquitaine,19,Corrèze,241927201,14314,25,585.68
+Beaune,27,Bourgogne-Franche-Comté,21,Côte-d'Or,200006682,20122,31,642.88
+Chenôve,27,Bourgogne-Franche-Comté,21,Côte-d'Or,242100410,14323,7,1930.32
+Chevigny-Saint-Sauveur,27,Bourgogne-Franche-Comté,21,Côte-d'Or,242100410,11055,12,912.88
+Dijon,27,Bourgogne-Franche-Comté,21,Côte-d'Or,242100410,159106,42,3937.29
+Talant,27,Bourgogne-Franche-Comté,21,Côte-d'Or,242100410,11788,5,2405.71
+Dinan,53,Bretagne,22,Côtes-d'Armor,200068989,14682,4,1685.65
+Lamballe-Armor,53,Bretagne,22,Côtes-d'Armor,200069391,16689,77,127.74
+Lannion,53,Bretagne,22,Côtes-d'Armor,200065928,20451,48,465.75
+Plérin,53,Bretagne,22,Côtes-d'Armor,200069409,14459,28,521.61
+Ploufragan,53,Bretagne,22,Côtes-d'Armor,200069409,11487,27,424.5
+Saint-Brieuc,53,Bretagne,22,Côtes-d'Armor,200069409,44166,19,2018.56
+Guéret,75,Nouvelle-Aquitaine,23,Creuse,200034825,12698,26,484.47
+Bergerac,75,Nouvelle-Aquitaine,24,Dordogne,200070647,26360,57,469.88
+Boulazac Isle Manoire,75,Nouvelle-Aquitaine,24,Dordogne,200040392,10738,15,191.92
+Périgueux,75,Nouvelle-Aquitaine,24,Dordogne,200040392,29255,10,2979.12
+Audincourt,27,Bourgogne-Franche-Comté,25,Doubs,200065647,13542,9,1545.89
+Besançon,27,Bourgogne-Franche-Comté,25,Doubs,242500361,118258,65,1817.96
+Montbéliard,27,Bourgogne-Franche-Comté,25,Doubs,200065647,25726,15,1713.92
+Pontarlier,27,Bourgogne-Franche-Comté,25,Doubs,242500338,17738,41,428.97
+Valentigney,27,Bourgogne-Franche-Comté,25,Doubs,200065647,10897,10,1118.79
+Bourg-lès-Valence,84,Auvergne-Rhône-Alpes,26,Drôme,200068781,19814,20,976.06
+Montélimar,84,Auvergne-Rhône-Alpes,26,Drôme,200040459,39790,46,850.03
+Pierrelatte,84,Auvergne-Rhône-Alpes,26,Drôme,200042901,13708,49,276.59
+Portes-lès-Valence,84,Auvergne-Rhône-Alpes,26,Drôme,200068781,10526,14,729.45
+Romans-sur-Isère,84,Auvergne-Rhône-Alpes,26,Drôme,200068781,32818,33,992.08
+Valence,84,Auvergne-Rhône-Alpes,26,Drôme,200068781,64431,37,1756.09
+Évreux,28,Normandie,27,Eure,200071454,46869,26,1771.32
+Gisors,28,Normandie,27,Eure,200071843,11863,17,711.64
+Louviers,28,Normandie,27,Eure,200089456,18636,27,688.69
+Vernon,28,Normandie,27,Eure,200072312,24056,34,688.89
+Val-de-Reuil,28,Normandie,27,Eure,200089456,12702,26,489.67
+Chartres,24,Centre-Val de Loire,28,Eure-et-Loir,200033181,38443,17,2281.48
+Châteaudun,24,Centre-Val de Loire,28,Eure-et-Loir,200069961,12949,28,454.67
+Dreux,24,Centre-Val de Loire,28,Eure-et-Loir,200040277,30744,24,1266.75
+Lucé,24,Centre-Val de Loire,28,Eure-et-Loir,200033181,15525,6,2561.88
+Mainvilliers,24,Centre-Val de Loire,28,Eure-et-Loir,200033181,11186,12,938.42
+Vernouillet,24,Centre-Val de Loire,28,Eure-et-Loir,200040277,12411,12,1024.86
+Brest,53,Bretagne,29,Finistère,242900314,139456,49,2816.72
+Concarneau,53,Bretagne,29,Finistère,242900769,20209,41,491.94
+Douarnenez,53,Bretagne,29,Finistère,242900645,13956,26,559.58
+Fouesnant,53,Bretagne,29,Finistère,242900660,10060,32,307.08
+Guipavas,53,Bretagne,29,Finistère,242900314,15196,44,344.35
+Landerneau,53,Bretagne,29,Finistère,242900801,16025,14,1214.94
+Morlaix,53,Bretagne,29,Finistère,242900835,14709,25,592.63
+Plougastel-Daoulas,53,Bretagne,29,Finistère,242900314,13277,47,283.51
+Plouzané,53,Bretagne,29,Finistère,242900314,13558,33,409.11
+Quimper,53,Bretagne,29,Finistère,200068120,63473,84,751.6
+Quimperlé,53,Bretagne,29,Finistère,242900694,12077,31,380.62
+Le Relecq-Kerhuon,53,Bretagne,29,Finistère,242900314,11710,7,1821.15
+Ajaccio,94,Corse,2A,Corse-du-Sud,242010056,72647,83,885.62
+Porto-Vecchio,94,Corse,2A,Corse-du-Sud,200040764,11040,169,65.46
+Bastia,94,Corse,2B,Haute-Corse,242000354,48296,20,2492.05
+Alès,76,Occitanie,30,Gard,200066918,42867,23,1850.91
+Bagnols-sur-Cèze,76,Occitanie,30,Gard,200034692,18072,31,576.09
+Beaucaire,76,Occitanie,30,Gard,243000585,15659,86,180.99
+Nîmes,76,Occitanie,30,Gard,243000643,147496,161,911.31
+Pont-Saint-Esprit,76,Occitanie,30,Gard,200034692,10482,19,566.9
+Saint-Gilles,76,Occitanie,30,Gard,243000643,14197,152,92.35
+Vauvert,76,Occitanie,30,Gard,243000593,11465,111,104.36
+Villeneuve-lès-Avignon,76,Occitanie,30,Gard,248400251,12848,18,703.23
+Balma,76,Occitanie,31,Haute-Garonne,243100518,17006,17,1025.08
+Blagnac,76,Occitanie,31,Haute-Garonne,243100518,26101,17,1546.27
+Castanet-Tolosan,76,Occitanie,31,Haute-Garonne,243100633,14377,8,1749.03
+Castelginest,76,Occitanie,31,Haute-Garonne,243100518,10784,8,1329.72
+Colomiers,76,Occitanie,31,Haute-Garonne,243100518,39866,21,1913.87
+Cugnaux,76,Occitanie,31,Haute-Garonne,243100518,20100,13,1544.97
+Fonsorbes,76,Occitanie,31,Haute-Garonne,200068641,12119,19,636.84
+Muret,76,Occitanie,31,Haute-Garonne,200068641,24762,58,428.11
+Plaisance-du-Touch,76,Occitanie,31,Haute-Garonne,243100781,19462,27,733.58
+Ramonville-Saint-Agne,76,Occitanie,31,Haute-Garonne,243100633,14730,6,2280.19
+Saint-Gaudens,76,Occitanie,31,Haute-Garonne,200072643,11664,28,426.47
+Saint-Jean,76,Occitanie,31,Haute-Garonne,243100518,11114,6,1871.04
+Saint-Orens-de-Gameville,76,Occitanie,31,Haute-Garonne,243100518,13163,13,1007.89
+Toulouse,76,Occitanie,31,Haute-Garonne,243100518,498003,118,4209.66
+Tournefeuille,76,Occitanie,31,Haute-Garonne,243100518,28763,18,1582.99
+L'Union,76,Occitanie,31,Haute-Garonne,243100518,12339,7,1822.6
+Villeneuve-Tolosane,76,Occitanie,31,Haute-Garonne,243100518,10112,5,1990.55
+Auch,76,Occitanie,32,Gers,200066926,22518,73,310.68
+Ambarès-et-Lagrave,75,Nouvelle-Aquitaine,33,Gironde,243300316,16591,25,670.07
+Andernos-les-Bains,75,Nouvelle-Aquitaine,33,Gironde,243301504,12284,21,613.89
+Arcachon,75,Nouvelle-Aquitaine,33,Gironde,243300563,11076,8,1465.08
+Bègles,75,Nouvelle-Aquitaine,33,Gironde,243300316,30543,11,3066.57
+Biganos,75,Nouvelle-Aquitaine,33,Gironde,243301504,11065,51,209.84
+Blanquefort,75,Nouvelle-Aquitaine,33,Gironde,243300316,15276,34,453.02
+Bordeaux,75,Nouvelle-Aquitaine,33,Gironde,243300316,259809,50,5263.55
+Le Bouscat,75,Nouvelle-Aquitaine,33,Gironde,243300316,24006,5,4546.59
+Bruges,75,Nouvelle-Aquitaine,33,Gironde,243300316,19863,14,1396.84
+Cenon,75,Nouvelle-Aquitaine,33,Gironde,243300316,26047,6,4718.66
+Cestas,75,Nouvelle-Aquitaine,33,Gironde,243301165,16932,100,170.05
+Eysines,75,Nouvelle-Aquitaine,33,Gironde,243300316,24202,12,2015.15
+Floirac,75,Nouvelle-Aquitaine,33,Gironde,243300316,18013,8,2077.62
+Gradignan,75,Nouvelle-Aquitaine,33,Gironde,243300316,25871,16,1640.52
+Gujan-Mestras,75,Nouvelle-Aquitaine,33,Gironde,243300563,22036,50,408.15
+Le Haillan,75,Nouvelle-Aquitaine,33,Gironde,243300316,11567,9,1249.14
+Léognan,75,Nouvelle-Aquitaine,33,Gironde,243301264,10641,42,256.84
+Libourne,75,Nouvelle-Aquitaine,33,Gironde,200070092,24432,21,1184.29
+Lormont,75,Nouvelle-Aquitaine,33,Gironde,243300316,22913,8,3113.18
+Mérignac,75,Nouvelle-Aquitaine,33,Gironde,243300316,74009,48,1536.41
+Mios,75,Nouvelle-Aquitaine,33,Gironde,243301504,11180,137,81.36
+Pessac,75,Nouvelle-Aquitaine,33,Gironde,243300316,65866,39,1696.7
+Saint-André-de-Cubzac,75,Nouvelle-Aquitaine,33,Gironde,243301223,12735,23,550.11
+Saint-Médard-en-Jalles,75,Nouvelle-Aquitaine,33,Gironde,243300316,32357,85,379.42
+Le Taillan-Médoc,75,Nouvelle-Aquitaine,33,Gironde,243300316,10416,15,687.07
+Talence,75,Nouvelle-Aquitaine,33,Gironde,243300316,44359,8,5312.46
+La Teste-de-Buch,75,Nouvelle-Aquitaine,33,Gironde,243300563,26269,178,145.78
+Villenave-d'Ornon,75,Nouvelle-Aquitaine,33,Gironde,243300316,38444,21,1808.28
+Agde,76,Occitanie,34,Hérault,243400819,29201,51,574.71
+Béziers,76,Occitanie,34,Hérault,243400769,78683,96,824.08
+Castelnau-le-Lez,76,Occitanie,34,Hérault,243400017,23469,11,2099.19
+Frontignan,76,Occitanie,34,Hérault,200066355,23485,40,740.38
+Juvignac,76,Occitanie,34,Hérault,243400017,12104,11,1117.64
+Lattes,76,Occitanie,34,Hérault,243400017,17674,32,635.07
+Lunel,76,Occitanie,34,Hérault,243400520,26356,24,1102.76
+Mauguio,76,Occitanie,34,Hérault,243400470,16714,77,337.25
+Mèze,76,Occitanie,34,Hérault,200066355,12385,47,358.05
+Montpellier,76,Occitanie,34,Hérault,243400017,299096,57,5258.37
+Saint-Gély-du-Fesc,76,Occitanie,34,Hérault,200022986,10397,17,629.74
+Saint-Jean-de-Védas,76,Occitanie,34,Hérault,243400017,11843,13,918.77
+Sète,76,Occitanie,34,Hérault,200066355,44576,42,1841.22
+Villeneuve-lès-Maguelone,76,Occitanie,34,Hérault,243400017,10463,31,460.93
+Betton,53,Bretagne,35,Ille-et-Vilaine,243500139,12637,27,472.76
+Bruz,53,Bretagne,35,Ille-et-Vilaine,243500139,19090,30,637.4
+Cesson-Sévigné,53,Bretagne,35,Ille-et-Vilaine,243500139,17316,32,538.77
+Chantepie,53,Bretagne,35,Ille-et-Vilaine,243500139,10236,12,854.42
+Châteaugiron,53,Bretagne,35,Ille-et-Vilaine,243500659,10541,8,448.17
+Dinard,53,Bretagne,35,Ille-et-Vilaine,243500725,10235,8,1305.48
+Fougères,53,Bretagne,35,Ille-et-Vilaine,200072452,20505,10,1960.33
+Pacé,53,Bretagne,35,Ille-et-Vilaine,243500139,12004,35,343.56
+Rennes,53,Bretagne,35,Ille-et-Vilaine,243500139,222485,50,4415.26
+Saint-Jacques-de-la-Lande,53,Bretagne,35,Ille-et-Vilaine,243500139,13955,12,1179.63
+Saint-Malo,53,Bretagne,35,Ille-et-Vilaine,243500782,46995,37,1284.72
+Vitré,53,Bretagne,35,Ille-et-Vilaine,200039022,18603,39,502.38
+Châteauroux,24,Centre-Val de Loire,36,Indre,243600327,43331,25,1696.59
+Issoudun,24,Centre-Val de Loire,36,Indre,243600236,11314,37,309.13
+Amboise,24,Centre-Val de Loire,37,Indre-et-Loire,200043065,12569,41,309.2
+Chambray-lès-Tours,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,11956,19,616.29
+Fondettes,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,10585,32,332.55
+Joué-lès-Tours,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,38750,32,1195.62
+Montlouis-sur-Loire,24,Centre-Val de Loire,37,Indre-et-Loire,200073161,10895,25,443.79
+La Riche,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,10372,8,1269.52
+Saint-Avertin,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,15075,13,1137.74
+Saint-Cyr-sur-Loire,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,16884,13,1250.67
+Saint-Pierre-des-Corps,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,15898,11,1409.4
+Tours,24,Centre-Val de Loire,37,Indre-et-Loire,243700754,137850,33,3976.06
+Bourgoin-Jallieu,84,Auvergne-Rhône-Alpes,38,Isère,243800604,29389,25,1205.95
+Charvieu-Chavagneux,84,Auvergne-Rhône-Alpes,38,Isère,243800935,10194,8,1178.5
+Échirolles,84,Auvergne-Rhône-Alpes,38,Isère,200040715,36970,8,4703.56
+Eybens,84,Auvergne-Rhône-Alpes,38,Isère,200040715,10112,5,2247.11
+Fontaine,84,Auvergne-Rhône-Alpes,38,Isère,200040715,23049,7,3419.73
+Grenoble,84,Auvergne-Rhône-Alpes,38,Isère,200040715,158240,19,8728.08
+L'Isle-d'Abeau,84,Auvergne-Rhône-Alpes,38,Isère,243800604,16717,13,1835.02
+Meylan,84,Auvergne-Rhône-Alpes,38,Isère,200040715,18221,13,1478.98
+Le Pont-de-Claix,84,Auvergne-Rhône-Alpes,38,Isère,200040715,10879,6,1942.68
+Saint-Égrève,84,Auvergne-Rhône-Alpes,38,Isère,200040715,16015,11,1471.97
+Saint-Martin-d'Hères,84,Auvergne-Rhône-Alpes,38,Isère,200040715,38188,9,4123.97
+Sassenage,84,Auvergne-Rhône-Alpes,38,Isère,200040715,11339,13,851.92
+Seyssinet-Pariset,84,Auvergne-Rhône-Alpes,38,Isère,200040715,11792,11,1107.23
+Vienne,84,Auvergne-Rhône-Alpes,38,Isère,200077014,30059,23,1327.11
+Villefontaine,84,Auvergne-Rhône-Alpes,38,Isère,243800604,18891,10,1624.33
+Voiron,84,Auvergne-Rhône-Alpes,38,Isère,243800984,20332,22,928.4
+Dole,27,Bourgogne-Franche-Comté,39,Jura,200010650,23611,38,615.35
+Lons-le-Saunier,27,Bourgogne-Franche-Comté,39,Jura,200071116,17092,8,2225.52
+Biscarrosse,75,Nouvelle-Aquitaine,40,Landes,244000873,14034,193,87.45
+Dax,75,Nouvelle-Aquitaine,40,Landes,244000675,21044,20,1068.22
+Mont-de-Marsan,75,Nouvelle-Aquitaine,40,Landes,244000808,29953,37,812.17
+Saint-Paul-lès-Dax,75,Nouvelle-Aquitaine,40,Landes,244000675,14126,58,241.68
+Tarnos,75,Nouvelle-Aquitaine,40,Landes,244000659,12914,27,491.77
+Blois,24,Centre-Val de Loire,41,Loir-et-Cher,200030385,46660,38,1245.6
+Romorantin-Lanthenay,24,Centre-Val de Loire,41,Loir-et-Cher,200018406,18206,45,401.81
+Vendôme,24,Centre-Val de Loire,41,Loir-et-Cher,200072072,15680,24,656.34
+Andrézieux-Bouthéon,84,Auvergne-Rhône-Alpes,42,Loire,244200770,10108,16,620.88
+Le Chambon-Feugerolles,84,Auvergne-Rhône-Alpes,42,Loire,244200770,11857,17,677.16
+Firminy,84,Auvergne-Rhône-Alpes,42,Loire,244200770,16953,10,1622.3
+Montbrison,84,Auvergne-Rhône-Alpes,42,Loire,200065886,15943,16,976.3
+Riorges,84,Auvergne-Rhône-Alpes,42,Loire,200035731,10917,16,703.87
+Rive-de-Gier,84,Auvergne-Rhône-Alpes,42,Loire,244200770,15086,7,2058.12
+Roanne,84,Auvergne-Rhône-Alpes,42,Loire,200035731,34415,16,2134.93
+Saint-Chamond,84,Auvergne-Rhône-Alpes,42,Loire,244200770,35309,55,643.39
+Saint-Étienne,84,Auvergne-Rhône-Alpes,42,Loire,244200770,174082,80,2176.84
+Saint-Just-Saint-Rambert,84,Auvergne-Rhône-Alpes,42,Loire,200065886,15239,41,375.07
+Le Puy-en-Velay,84,Auvergne-Rhône-Alpes,43,Haute-Loire,200073419,18947,17,1128.47
+Ancenis-Saint-Géréon,52,Pays de la Loire,44,Loire-Atlantique,244400552,11081,20,401.78
+Blain,52,Pays de la Loire,44,Loire-Atlantique,244400453,10086,102,99.15
+Bouguenais,52,Pays de la Loire,44,Loire-Atlantique,244400404,20450,31,649.21
+Carquefou,52,Pays de la Loire,44,Loire-Atlantique,244400404,20463,43,471.28
+La Chapelle-sur-Erdre,52,Pays de la Loire,44,Loire-Atlantique,244400404,19981,33,597.88
+Châteaubriant,52,Pays de la Loire,44,Loire-Atlantique,200072726,12016,34,357.41
+Couëron,52,Pays de la Loire,44,Loire-Atlantique,244400404,22680,49,515.1
+La Baule-Escoublac,52,Pays de la Loire,44,Loire-Atlantique,244400610,16160,27,728.26
+Guérande,52,Pays de la Loire,44,Loire-Atlantique,244400610,16042,82,196.98
+Nantes,52,Pays de la Loire,44,Loire-Atlantique,244400404,320732,66,4919.96
+Orvault,52,Pays de la Loire,44,Loire-Atlantique,244400404,27438,28,991.62
+Pontchâteau,52,Pays de la Loire,44,Loire-Atlantique,200000438,11030,56,197.71
+Pornic,52,Pays de la Loire,44,Loire-Atlantique,200067346,16886,95,179.29
+Pornichet,52,Pays de la Loire,44,Loire-Atlantique,244400644,11828,13,933.54
+Rezé,52,Pays de la Loire,44,Loire-Atlantique,244400404,42993,16,3119.96
+Saint-Brevin-les-Pins,52,Pays de la Loire,44,Loire-Atlantique,244400586,14473,21,750.29
+Saint-Herblain,52,Pays de la Loire,44,Loire-Atlantique,244400404,49067,30,1634.48
+Sainte-Luce-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,244400404,15417,11,1346.46
+Saint-Nazaire,52,Pays de la Loire,44,Loire-Atlantique,244400644,71887,48,1536.38
+Saint-Sébastien-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,244400404,27958,12,2397.77
+Thouaré-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,244400404,10704,13,838.87
+Treillières,52,Pays de la Loire,44,Loire-Atlantique,244400503,10054,29,346.09
+Vertou,52,Pays de la Loire,44,Loire-Atlantique,244400404,25879,38,725.31
+Amilly,24,Centre-Val de Loire,45,Loiret,244500203,13279,40,329.83
+Châlette-sur-Loing,24,Centre-Val de Loire,45,Loiret,244500203,12743,13,970.53
+La Chapelle-Saint-Mesmin,24,Centre-Val de Loire,45,Loiret,244500468,10095,9,1126.67
+Fleury-les-Aubrais,24,Centre-Val de Loire,45,Loiret,244500468,21104,10,2085.38
+Gien,24,Centre-Val de Loire,45,Loiret,244500211,13305,68,196.07
+Montargis,24,Centre-Val de Loire,45,Loiret,244500203,14738,4,3304.48
+Olivet,24,Centre-Val de Loire,45,Loiret,244500468,22503,23,962.08
+Orléans,24,Centre-Val de Loire,45,Loiret,244500468,117026,28,4258.59
+Saint-Jean-de-Braye,24,Centre-Val de Loire,45,Loiret,244500468,21396,14,1561.75
+Saint-Jean-de-la-Ruelle,24,Centre-Val de Loire,45,Loiret,244500468,16570,6,2716.39
+Saran,24,Centre-Val de Loire,45,Loiret,244500468,16598,20,844.68
+Cahors,76,Occitanie,46,Lot,200023737,20159,65,311.48
+Agen,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,200096956,32214,12,2803.66
+Marmande,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,200030674,17265,45,383.16
+Villeneuve-sur-Lot,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,200023307,21690,81,266.72
+Mende,76,Occitanie,48,Lozère,244800405,12336,37,337.42
+Angers,52,Pays de la Loire,49,Maine-et-Loire,244900015,155876,44,3649.64
+Avrillé,52,Pays de la Loire,49,Maine-et-Loire,244900015,14727,16,929.73
+Baugé-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,244900882,11735,9,43.76
+Beaupréau-en-Mauges,52,Pays de la Loire,49,Maine-et-Loire,200060010,23465,36,101.82
+Brissac Loire Aubance,52,Pays de la Loire,49,Maine-et-Loire,200071553,10906,10,90.21
+Orée d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,200060010,16468,16,105.33
+Chemillé-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,200060010,21187,49,65.4
+Cholet,52,Pays de la Loire,49,Maine-et-Loire,200071678,54357,87,621.44
+Doué-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,200071876,11224,36,75.56
+Montrevault-sur-Èvre,52,Pays de la Loire,49,Maine-et-Loire,200060010,15732,3,79.11
+Mauges-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,200060010,18083,40,94.25
+Les Ponts-de-Cé,52,Pays de la Loire,49,Maine-et-Loire,244900015,12589,19,643.94
+Sèvremoine,52,Pays de la Loire,49,Maine-et-Loire,200060010,25519,28,119.77
+Loire-Authion,52,Pays de la Loire,49,Maine-et-Loire,244900015,16293,20,143.35
+Saumur,52,Pays de la Loire,49,Maine-et-Loire,200071876,26154,66,394.78
+Segré-en-Anjou Bleu,52,Pays de la Loire,49,Maine-et-Loire,244900809,17660,16,73.11
+Trélazé,52,Pays de la Loire,49,Maine-et-Loire,244900015,15056,12,1234.1
+Avranches,28,Normandie,50,Manche,200069425,10277,4,935.12
+La Hague,28,Normandie,50,Manche,200067205,11257,8,75.71
+Carentan-les-Marais,28,Normandie,50,Manche,200042729,10227,16,76.73
+Cherbourg-en-Cotentin,28,Normandie,50,Manche,200067205,77789,16,1134.94
+Granville,28,Normandie,50,Manche,200042604,12558,10,1268.48
+Saint-Lô,28,Normandie,50,Manche,200066389,19206,23,828.2
+Châlons-en-Champagne,44,Grand Est,51,Marne,200066876,44336,26,1701.96
+Épernay,44,Grand Est,51,Marne,200067684,22362,23,985.54
+Reims,44,Grand Est,51,Marne,200067213,180318,47,3844.73
+Tinqueux,44,Grand Est,51,Marne,200067213,10456,4,2519.52
+Vitry-le-François,44,Grand Est,51,Marne,200034718,11458,6,1776.43
+Chaumont,44,Grand Est,52,Haute-Marne,200068658,21770,55,393.96
+Saint-Dizier,44,Grand Est,52,Haute-Marne,200068666,23085,48,484.06
+Château-Gontier-sur-Mayenne,52,Pays de la Loire,53,Mayenne,245300447,16845,28,245.95
+Laval,52,Pays de la Loire,53,Mayenne,200083392,49617,34,1449.94
+Mayenne,52,Pays de la Loire,53,Mayenne,200055887,12805,20,644.11
+Laxou,44,Grand Est,54,Meurthe-et-Moselle,245400676,14445,16,906.21
+Longwy,44,Grand Est,54,Meurthe-et-Moselle,245400262,15117,5,2830.9
+Lunéville,44,Grand Est,54,Meurthe-et-Moselle,200070324,17858,16,1092.9
+Nancy,44,Grand Est,54,Meurthe-et-Moselle,245400676,104403,15,6955.56
+Pont-à-Mousson,44,Grand Est,54,Meurthe-et-Moselle,200041515,14357,22,664.68
+Saint-Max,44,Grand Est,54,Meurthe-et-Moselle,245400676,10046,2,5430.27
+Toul,44,Grand Est,54,Meurthe-et-Moselle,200070563,15857,31,518.37
+Vandœuvre-lès-Nancy,44,Grand Est,54,Meurthe-et-Moselle,245400676,29723,9,3141.97
+Villers-lès-Nancy,44,Grand Est,54,Meurthe-et-Moselle,245400676,14305,10,1437.69
+Villerupt,44,Grand Est,54,Meurthe-et-Moselle,245701404,10098,6,1539.33
+Bar-le-Duc,44,Grand Est,55,Meuse,200033025,14592,24,617.78
+Verdun,44,Grand Est,55,Meuse,200049187,16877,32,543.89
+Auray,53,Bretagne,56,Morbihan,200043123,14155,7,2048.48
+Guidel,53,Bretagne,56,Morbihan,200042174,11743,52,224.57
+Hennebont,53,Bretagne,56,Morbihan,200042174,15873,19,854.77
+Lanester,53,Bretagne,56,Morbihan,200042174,22940,16,1248.78
+Lorient,53,Bretagne,56,Morbihan,200042174,57412,15,3284.44
+Ploemeur,53,Bretagne,56,Morbihan,200042174,18537,40,466.69
+Pontivy,53,Bretagne,56,Morbihan,245614433,15092,25,607.32
+Saint-Avé,53,Bretagne,56,Morbihan,200067932,11912,26,456.57
+Vannes,53,Bretagne,56,Morbihan,200067932,54017,33,1672.35
+Amnéville,44,Grand Est,57,Moselle,245701271,10668,10,1019.89
+Creutzwald,44,Grand Est,57,Moselle,245701164,12772,27,477.99
+Fameck,44,Grand Est,57,Moselle,245701222,14829,13,1191.08
+Florange,44,Grand Est,57,Moselle,245701222,11939,13,907.22
+Forbach,44,Grand Est,57,Moselle,245700372,21509,16,1317.95
+Freyming-Merlebach,44,Grand Est,57,Moselle,245700398,12840,9,1417.22
+Hayange,44,Grand Est,57,Moselle,245701222,15994,12,1309.91
+Maizières-lès-Metz,44,Grand Est,57,Moselle,200039949,11776,9,1335.15
+Metz,44,Grand Est,57,Moselle,200039865,120211,42,2866.26
+Montigny-lès-Metz,44,Grand Est,57,Moselle,200039865,21788,7,3251.94
+Saint-Avold,44,Grand Est,57,Moselle,200067502,15171,35,427.59
+Sarrebourg,44,Grand Est,57,Moselle,200068146,12278,17,748.66
+Sarreguemines,44,Grand Est,57,Moselle,200070746,20555,30,692.79
+Stiring-Wendel,44,Grand Est,57,Moselle,245700372,11043,4,3067.5
+Thionville,44,Grand Est,57,Moselle,245701362,41383,50,829.65
+Woippy,44,Grand Est,57,Moselle,200039865,14526,15,996.3
+Yutz,44,Grand Est,57,Moselle,245701362,17304,14,1238.65
+Nevers,27,Bourgogne-Franche-Comté,58,Nièvre,245804406,32284,17,1862.9
+Villeneuve-d'Ascq,32,Hauts-de-France,59,Nord,200093201,61258,28,2230.81
+Annœullin,32,Hauts-de-France,59,Nord,200093201,10679,9,1185.24
+Anzin,32,Hauts-de-France,59,Nord,245901160,13195,4,3625.0
+Armentières,32,Hauts-de-France,59,Nord,200093201,25225,6,4016.72
+Bailleul,32,Hauts-de-France,59,Nord,200040947,15026,44,346.06
+Bruay-sur-l'Escaut,32,Hauts-de-France,59,Nord,245901160,11325,7,1690.3
+Cambrai,32,Hauts-de-France,59,Nord,200068500,31559,18,1735.92
+Caudry,32,Hauts-de-France,59,Nord,200030633,14028,13,1084.08
+Comines,32,Hauts-de-France,59,Nord,200093201,12749,16,795.82
+Coudekerque-Branche,32,Hauts-de-France,59,Nord,245900428,20708,9,2265.65
+Croix,32,Hauts-de-France,59,Nord,200093201,20574,4,4633.78
+Denain,32,Hauts-de-France,59,Nord,200042190,20415,12,1772.14
+Douai,32,Hauts-de-France,59,Nord,200044618,39842,17,2360.31
+Douchy-les-Mines,32,Hauts-de-France,59,Nord,200042190,10144,9,1102.61
+Dunkerque,32,Hauts-de-France,59,Nord,245900428,86545,43,1971.86
+Faches-Thumesnil,32,Hauts-de-France,59,Nord,200093201,18160,5,3930.74
+Fourmies,32,Hauts-de-France,59,Nord,200043404,11403,23,496.21
+Grande-Synthe,32,Hauts-de-France,59,Nord,245900428,20635,21,962.45
+Gravelines,32,Hauts-de-France,59,Nord,245900428,11001,20,485.48
+Halluin,32,Hauts-de-France,59,Nord,200093201,20812,13,1657.01
+Haubourdin,32,Hauts-de-France,59,Nord,200093201,14556,5,2741.24
+Hautmont,32,Hauts-de-France,59,Nord,200043396,14318,12,1166.91
+Hazebrouck,32,Hauts-de-France,59,Nord,200040947,21464,27,819.24
+Hem,32,Hauts-de-France,59,Nord,200093201,18462,10,1913.16
+Jeumont,32,Hauts-de-France,59,Nord,200043396,10447,10,1023.21
+Lambersart,32,Hauts-de-France,59,Nord,200093201,27425,6,4452.11
+Lille,32,Hauts-de-France,59,Nord,200093201,236234,35,6782.49
+Loos,32,Hauts-de-France,59,Nord,200093201,22896,7,3294.39
+Lys-lez-Lannoy,32,Hauts-de-France,59,Nord,200093201,13797,3,4232.21
+La Madeleine,32,Hauts-de-France,59,Nord,200093201,22214,3,7821.83
+Marcq-en-Barœul,32,Hauts-de-France,59,Nord,200093201,38604,14,2749.57
+Marly,32,Hauts-de-France,59,Nord,245901160,12014,8,1494.28
+Marquette-lez-Lille,32,Hauts-de-France,59,Nord,200093201,11105,5,2284.98
+Maubeuge,32,Hauts-de-France,59,Nord,200043396,29625,19,1571.62
+Mons-en-Barœul,32,Hauts-de-France,59,Nord,200093201,21564,3,7487.5
+Mouvaux,32,Hauts-de-France,59,Nord,200093201,13020,4,3122.3
+Neuville-en-Ferrain,32,Hauts-de-France,59,Nord,200093201,10126,6,1638.51
+Raismes,32,Hauts-de-France,59,Nord,200042190,12201,33,366.29
+Ronchin,32,Hauts-de-France,59,Nord,200093201,18933,5,3493.17
+Roncq,32,Hauts-de-France,59,Nord,200093201,13560,11,1280.45
+Roubaix,32,Hauts-de-France,59,Nord,200093201,98066,13,7412.4
+Saint-Amand-les-Eaux,32,Hauts-de-France,59,Nord,200042190,15997,34,473.14
+Saint-André-lez-Lille,32,Hauts-de-France,59,Nord,200093201,13004,3,4115.19
+Saint-Saulve,32,Hauts-de-France,59,Nord,245901160,11268,12,934.33
+Seclin,32,Hauts-de-France,59,Nord,200093201,12505,17,717.85
+Sin-le-Noble,32,Hauts-de-France,59,Nord,200044618,15442,12,1339.29
+Somain,32,Hauts-de-France,59,Nord,245901152,11869,12,963.39
+Tourcoing,32,Hauts-de-France,59,Nord,200093201,99165,15,6528.31
+Valenciennes,32,Hauts-de-France,59,Nord,245901160,42738,14,3092.47
+Vieux-Condé,32,Hauts-de-France,59,Nord,245901160,10409,11,941.14
+Wambrechies,32,Hauts-de-France,59,Nord,200093201,10716,16,692.7
+Wasquehal,32,Hauts-de-France,59,Nord,200093201,20980,7,3058.31
+Wattignies,32,Hauts-de-France,59,Nord,200093201,15372,6,2436.13
+Wattrelos,32,Hauts-de-France,59,Nord,200093201,41015,14,3051.71
+Beauvais,32,Hauts-de-France,60,Oise,200067999,56889,33,1707.87
+Chambly,32,Hauts-de-France,60,Oise,200067973,10127,13,786.87
+Chantilly,32,Hauts-de-France,60,Oise,246000764,10604,16,654.97
+Clermont,32,Hauts-de-France,60,Oise,246000376,10268,6,1767.3
+Compiègne,32,Hauts-de-France,60,Oise,200067965,40453,53,761.83
+Creil,32,Hauts-de-France,60,Oise,200068047,35970,11,3243.46
+Crépy-en-Valois,32,Hauts-de-France,60,Oise,246000871,14365,16,882.37
+Méru,32,Hauts-de-France,60,Oise,246000582,14354,23,628.73
+Montataire,32,Hauts-de-France,60,Oise,200068047,13683,11,1283.58
+Nogent-sur-Oise,32,Hauts-de-France,60,Oise,200068047,21589,7,2893.97
+Noyon,32,Hauts-de-France,60,Oise,246000756,13197,18,733.17
+Pont-Sainte-Maxence,32,Hauts-de-France,60,Oise,246000921,12512,15,847.7
+Senlis,32,Hauts-de-France,60,Oise,200066975,15128,24,629.02
+Alençon,28,Normandie,61,Orne,246100663,25744,11,2410.49
+Argentan,28,Normandie,61,Orne,200068450,13401,18,737.13
+Flers,28,Normandie,61,Orne,200035814,14589,21,689.79
+Arras,32,Hauts-de-France,62,Pas-de-Calais,200033579,42337,12,3640.33
+Auchel,32,Hauts-de-France,62,Pas-de-Calais,200072460,10221,6,1703.5
+Avion,32,Hauts-de-France,62,Pas-de-Calais,246200364,17676,13,1355.52
+Berck,32,Hauts-de-France,62,Pas-de-Calais,200069029,13442,15,903.36
+Béthune,32,Hauts-de-France,62,Pas-de-Calais,200072460,24983,10,2640.91
+Boulogne-sur-Mer,32,Hauts-de-France,62,Pas-de-Calais,246200729,40588,8,4820.43
+Bruay-la-Buissière,32,Hauts-de-France,62,Pas-de-Calais,200072460,21953,17,1342.69
+Bully-les-Mines,32,Hauts-de-France,62,Pas-de-Calais,246200364,12080,8,1577.02
+Calais,32,Hauts-de-France,62,Pas-de-Calais,200090751,67544,33,2016.24
+Carvin,32,Hauts-de-France,62,Pas-de-Calais,246200299,17667,21,840.09
+Courrières,32,Hauts-de-France,62,Pas-de-Calais,246200299,10360,9,1200.46
+Étaples,32,Hauts-de-France,62,Pas-de-Calais,200069029,10813,12,834.98
+Harnes,32,Hauts-de-France,62,Pas-de-Calais,246200364,12277,11,1140.99
+Hénin-Beaumont,32,Hauts-de-France,62,Pas-de-Calais,246200299,25886,21,1249.32
+Lens,32,Hauts-de-France,62,Pas-de-Calais,246200364,32458,12,2774.19
+Liévin,32,Hauts-de-France,62,Pas-de-Calais,246200364,30102,13,2346.22
+Longuenesse,32,Hauts-de-France,62,Pas-de-Calais,200069037,10600,8,1261.9
+Marck,32,Hauts-de-France,62,Pas-de-Calais,200090751,10523,32,333.53
+Méricourt,32,Hauts-de-France,62,Pas-de-Calais,246200364,11374,8,1510.49
+Montigny-en-Gohelle,32,Hauts-de-France,62,Pas-de-Calais,246200299,10086,4,2881.71
+Nœux-les-Mines,32,Hauts-de-France,62,Pas-de-Calais,200072460,11638,9,1316.52
+Oignies,32,Hauts-de-France,62,Pas-de-Calais,246200299,10130,6,1835.14
+Outreau,32,Hauts-de-France,62,Pas-de-Calais,246200729,13178,7,1858.67
+Saint-Martin-Boulogne,32,Hauts-de-France,62,Pas-de-Calais,246200729,11165,13,849.05
+Saint-Omer,32,Hauts-de-France,62,Pas-de-Calais,200069037,14782,16,901.34
+Aubière,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,10581,8,1377.73
+Beaumont,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,10630,4,2650.87
+Chamalières,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,17196,4,4561.27
+Clermont-Ferrand,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,147284,43,3451.7
+Cournon-d'Auvergne,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,20356,19,1095.59
+Gerzat,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,10395,16,638.51
+Issoire,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,200070407,15297,20,776.89
+Pont-du-Château,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,246300701,12324,22,570.29
+Riom,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,200070753,18733,33,585.96
+Thiers,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,200070712,11470,45,257.81
+Anglet,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067106,40310,28,1496.84
+Bayonne,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067106,52006,26,2398.8
+Biarritz,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067106,25885,12,2219.98
+Billère,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067254,13229,4,2894.75
+Hendaye,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067106,17621,11,2216.48
+Lons,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067254,13843,12,1200.61
+Oloron-Sainte-Marie,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067262,10653,69,155.95
+Orthez,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200039204,10466,47,228.22
+Pau,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067254,75665,32,2401.3
+Saint-Jean-de-Luz,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067106,14282,20,749.71
+Urrugne,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,200067106,10495,52,207.53
+Lourdes,76,Occitanie,65,Hautes-Pyrénées,200069300,13247,37,358.61
+Tarbes,76,Occitanie,65,Hautes-Pyrénées,200069300,42925,15,2800.07
+Argelès-sur-Mer,76,Occitanie,66,Pyrénées-Orientales,200043602,10593,59,180.55
+Cabestany,76,Occitanie,66,Pyrénées-Orientales,200027183,10368,11,995.01
+Canet-en-Roussillon,76,Occitanie,66,Pyrénées-Orientales,200027183,12653,30,565.12
+Perpignan,76,Occitanie,66,Pyrénées-Orientales,200027183,118032,68,1733.98
+Pia,76,Occitanie,66,Pyrénées-Orientales,200070365,10334,13,784.07
+Saint-Cyprien,76,Occitanie,66,Pyrénées-Orientales,246600282,11048,16,699.24
+Saint-Estève,76,Occitanie,66,Pyrénées-Orientales,200027183,11642,12,997.6
+Saint-Laurent-de-la-Salanque,76,Occitanie,66,Pyrénées-Orientales,200027183,10053,17,811.38
+Bischheim,44,Grand Est,67,Bas-Rhin,246700488,17520,4,3972.79
+Bischwiller,44,Grand Est,67,Bas-Rhin,200067874,12606,17,730.78
+Brumath,44,Grand Est,67,Bas-Rhin,200067874,10061,31,340.59
+Erstein,44,Grand Est,67,Bas-Rhin,200067924,10739,37,296.49
+Haguenau,44,Grand Est,67,Bas-Rhin,200067874,35448,184,194.14
+Hœnheim,44,Grand Est,67,Bas-Rhin,246700488,11446,3,3346.78
+Illkirch-Graffenstaden,44,Grand Est,67,Bas-Rhin,246700488,27087,22,1219.59
+Lingolsheim,44,Grand Est,67,Bas-Rhin,246700488,19797,6,3479.26
+Obernai,44,Grand Est,67,Bas-Rhin,246701080,12015,26,466.78
+Ostwald,44,Grand Est,67,Bas-Rhin,246700488,12985,7,1826.3
+Saverne,44,Grand Est,67,Bas-Rhin,200068112,11303,26,434.56
+Schiltigheim,44,Grand Est,67,Bas-Rhin,246700488,33993,8,4455.18
+Sélestat,44,Grand Est,67,Bas-Rhin,246700967,19279,47,434.21
+Strasbourg,44,Grand Est,67,Bas-Rhin,246700488,290576,78,3712.96
+Cernay,44,Grand Est,68,Haut-Rhin,200036465,11559,18,640.74
+Colmar,44,Grand Est,68,Haut-Rhin,246800726,68294,66,1025.9
+Guebwiller,44,Grand Est,68,Haut-Rhin,246800569,10988,10,1135.12
+Illzach,44,Grand Est,68,Haut-Rhin,200066009,14380,7,1917.33
+Kingersheim,44,Grand Est,68,Haut-Rhin,200066009,13230,7,1977.58
+Mulhouse,44,Grand Est,68,Haut-Rhin,200066009,108038,22,4870.96
+Pfastatt,44,Grand Est,68,Haut-Rhin,200066009,10054,5,1918.7
+Riedisheim,44,Grand Est,68,Haut-Rhin,200066009,12258,7,1761.21
+Rixheim,44,Grand Est,68,Haut-Rhin,200066009,14020,20,717.87
+Saint-Louis,44,Grand Est,68,Haut-Rhin,200066058,22835,17,1355.19
+Wittelsheim,44,Grand Est,68,Haut-Rhin,200066009,10358,24,438.34
+Wittenheim,44,Grand Est,68,Haut-Rhin,200066009,15065,19,792.48
+Belleville-en-Beaujolais,84,Auvergne-Rhône-Alpes,69,Rhône,200067817,13336,10,583.38
+Brignais,84,Auvergne-Rhône-Alpes,69,Rhône,246900757,12403,10,1197.2
+Bron,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,42442,10,4120.58
+Caluire-et-Cuire,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,43355,10,4148.8
+Craponne,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,11453,5,2479.0
+Écully,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,18789,8,2223.55
+Francheville,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,14821,8,1811.86
+Givors,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,20672,17,1192.16
+Lyon,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,522228,48,10909.3
+Oullins,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,26994,4,6135.0
+Pierre-Bénite,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,10508,4,2345.54
+Saint-Fons,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,19500,6,3217.82
+Sainte-Foy-lès-Lyon,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,22077,7,3232.36
+Saint-Genis-Laval,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,20971,13,1623.14
+Tarare,84,Auvergne-Rhône-Alpes,69,Rhône,200040566,10572,14,755.68
+Tassin-la-Demi-Lune,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,22475,8,2885.11
+Vaulx-en-Velin,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,51761,21,2470.69
+Vénissieux,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,66765,15,4355.19
+Villefranche-sur-Saône,84,Auvergne-Rhône-Alpes,69,Rhône,200040590,36009,9,3798.42
+Villeurbanne,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,154781,15,10659.85
+Chassieu,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,10844,12,937.25
+Corbas,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,11161,12,939.48
+Décines-Charpieu,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,28913,17,1699.76
+Genas,84,Auvergne-Rhône-Alpes,69,Rhône,246900575,13195,24,553.48
+Meyzieu,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,35134,24,1526.9
+Mions,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,13684,12,1182.71
+Rillieux-la-Pape,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,30887,15,2133.08
+Saint-Priest,84,Auvergne-Rhône-Alpes,69,Rhône,200046977,48318,30,1626.32
+Lyon 1er Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,29303,2,10909.3
+Lyon 2e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,30318,3,10909.3
+Lyon 3e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,101838,6,10909.3
+Lyon 4e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,35683,3,10909.3
+Lyon 5e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,49546,6,10909.3
+Lyon 6e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,52621,4,10909.3
+Lyon 7e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,84310,9,10909.3
+Lyon 8e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,85980,7,10909.3
+Lyon 9e Arrondissement,84,Auvergne-Rhône-Alpes,69,Rhône,246900245,52629,7,10909.3
+Héricourt,27,Bourgogne-Franche-Comté,70,Haute-Saône,247000722,10592,18,503.42
+Vesoul,27,Bourgogne-Franche-Comté,70,Haute-Saône,247000011,14866,9,1639.03
+Autun,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,200070530,13205,62,214.65
+Chalon-sur-Saône,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,247100589,45094,15,2962.81
+Le Creusot,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,247100290,21057,18,1162.73
+Mâcon,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,200070308,34414,27,1272.71
+Montceau-les-Mines,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,247100290,17239,17,1037.24
+Allonnes,52,Pays de la Loire,72,Sarthe,247200132,11108,18,614.72
+La Flèche,52,Pays de la Loire,72,Sarthe,247200348,15078,79,203.18
+Le Mans,52,Pays de la Loire,72,Sarthe,247200132,145155,53,2748.63
+Sablé-sur-Sarthe,52,Pays de la Loire,72,Sarthe,247200090,12123,37,328.36
+Aix-les-Bains,84,Auvergne-Rhône-Alpes,73,Savoie,200068674,31100,16,2464.34
+Albertville,84,Auvergne-Rhône-Alpes,73,Savoie,200068997,19830,17,1130.56
+Chambéry,84,Auvergne-Rhône-Alpes,73,Savoie,200069110,59172,21,2819.06
+La Motte-Servolex,84,Auvergne-Rhône-Alpes,73,Savoie,200069110,12377,30,414.64
+Annecy,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200066793,131766,16,1968.71
+Annemasse,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200011773,37485,5,7527.11
+Bonneville,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200000172,12511,27,460.81
+Cluses,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200033116,16976,10,1622.94
+Gaillard,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200011773,10350,4,2574.63
+Passy,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200034882,11350,80,141.82
+La Roche-sur-Foron,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,247400724,11155,18,621.79
+Rumilly,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,247400740,15944,17,943.99
+Saint-Julien-en-Genevois,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,247400690,15739,11,1486.21
+Sallanches,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200034882,16986,66,257.87
+Thonon-les-Bains,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,200067551,36626,16,2259.47
+Paris,11,Île-de-France,75,Paris,200054781,2145906,105,20359.64
+Paris 1er Arrondissement,11,Île-de-France,75,Paris,200054781,16030,2,20359.64
+Paris 2e Arrondissement,11,Île-de-France,75,Paris,200054781,21130,1,20359.64
+Paris 3e Arrondissement,11,Île-de-France,75,Paris,200054781,33402,1,20359.64
+Paris 4e Arrondissement,11,Île-de-France,75,Paris,200054781,29064,2,20359.64
+Paris 5e Arrondissement,11,Île-de-France,75,Paris,200054781,57380,3,20359.64
+Paris 6e Arrondissement,11,Île-de-France,75,Paris,200054781,39625,2,20359.64
+Paris 7e Arrondissement,11,Île-de-France,75,Paris,200054781,48520,4,20359.64
+Paris 8e Arrondissement,11,Île-de-France,75,Paris,200054781,35631,4,20359.64
+Paris 9e Arrondissement,11,Île-de-France,75,Paris,200054781,60168,2,20359.64
+Paris 10e Arrondissement,11,Île-de-France,75,Paris,200054781,83459,3,20359.64
+Paris 11e Arrondissement,11,Île-de-France,75,Paris,200054781,144292,4,20359.64
+Paris 12e Arrondissement,11,Île-de-France,75,Paris,200054781,140311,16,20359.64
+Paris 13e Arrondissement,11,Île-de-France,75,Paris,200054781,177833,7,20359.64
+Paris 14e Arrondissement,11,Île-de-France,75,Paris,200054781,133967,6,20359.64
+Paris 15e Arrondissement,11,Île-de-France,75,Paris,200054781,229472,8,20359.64
+Paris 16e Arrondissement,11,Île-de-France,75,Paris,200054781,162820,16,20359.64
+Paris 17e Arrondissement,11,Île-de-France,75,Paris,200054781,166336,6,20359.64
+Paris 18e Arrondissement,11,Île-de-France,75,Paris,200054781,191135,6,20359.64
+Paris 19e Arrondissement,11,Île-de-France,75,Paris,200054781,183211,7,20359.64
+Paris 20e Arrondissement,11,Île-de-France,75,Paris,200054781,192120,6,20359.64
+Barentin,28,Normandie,76,Seine-Maritime,247600646,12239,13,960.68
+Bois-Guillaume,28,Normandie,76,Seine-Maritime,200023414,14378,11,1624.63
+Bolbec,28,Normandie,76,Seine-Maritime,200010700,11551,12,943.71
+Canteleu,28,Normandie,76,Seine-Maritime,200023414,13807,18,784.04
+Déville-lès-Rouen,28,Normandie,76,Seine-Maritime,200023414,10644,3,3368.35
+Dieppe,28,Normandie,76,Seine-Maritime,247600786,28091,12,2407.11
+Elbeuf,28,Normandie,76,Seine-Maritime,200023414,16087,16,985.72
+Fécamp,28,Normandie,76,Seine-Maritime,200069821,18054,15,1198.01
+Le Grand-Quevilly,28,Normandie,76,Seine-Maritime,200023414,26034,11,2343.29
+Le Havre,28,Normandie,76,Seine-Maritime,200084952,165830,55,3532.06
+Maromme,28,Normandie,76,Seine-Maritime,200023414,10845,4,2704.49
+Montivilliers,28,Normandie,76,Seine-Maritime,200084952,15500,19,811.94
+Mont-Saint-Aignan,28,Normandie,76,Seine-Maritime,200023414,19686,8,2479.35
+Port-Jérôme-sur-Seine,28,Normandie,76,Seine-Maritime,200010700,10264,19,336.52
+Oissel,28,Normandie,76,Seine-Maritime,200023414,12266,22,552.77
+Le Petit-Quevilly,28,Normandie,76,Seine-Maritime,200023414,21997,4,5056.78
+Rouen,28,Normandie,76,Seine-Maritime,200023414,114187,21,5340.83
+Saint-Étienne-du-Rouvray,28,Normandie,76,Seine-Maritime,200023414,28331,18,1552.38
+Sotteville-lès-Rouen,28,Normandie,76,Seine-Maritime,200023414,29071,7,3907.39
+Yvetot,28,Normandie,76,Seine-Maritime,247600620,11280,7,1510.04
+Avon,11,Île-de-France,77,Seine-et-Marne,200072346,13545,4,3536.55
+Brie-Comte-Robert,11,Île-de-France,77,Seine-et-Marne,247700644,19161,20,961.41
+Bussy-Saint-Georges,11,Île-de-France,77,Seine-et-Marne,247700594,26551,15,1982.9
+Cesson,11,Île-de-France,77,Seine-et-Marne,200059228,10937,7,1566.91
+Champs-sur-Marne,11,Île-de-France,77,Seine-et-Marne,200057958,25230,8,3432.65
+Chelles,11,Île-de-France,77,Seine-et-Marne,200057958,54372,16,3419.62
+Claye-Souilly,11,Île-de-France,77,Seine-et-Marne,200055655,12316,15,817.25
+Combs-la-Ville,11,Île-de-France,77,Seine-et-Marne,200059228,21657,15,1495.65
+Coulommiers,11,Île-de-France,77,Seine-et-Marne,200090504,14953,11,1368.07
+Dammarie-les-Lys,11,Île-de-France,77,Seine-et-Marne,247700057,22318,10,2179.49
+Dammartin-en-Goële,11,Île-de-France,77,Seine-et-Marne,200055655,10830,9,1207.36
+Fontainebleau,11,Île-de-France,77,Seine-et-Marne,200072346,15903,172,92.43
+Lagny-sur-Marne,11,Île-de-France,77,Seine-et-Marne,247700594,21139,6,3695.63
+Lieusaint,11,Île-de-France,77,Seine-et-Marne,200059228,13804,12,1153.22
+Lognes,11,Île-de-France,77,Seine-et-Marne,200057958,14388,4,4269.44
+Meaux,11,Île-de-France,77,Seine-et-Marne,200072130,55709,15,3718.89
+Le Mée-sur-Seine,11,Île-de-France,77,Seine-et-Marne,247700057,20677,6,3872.1
+Melun,11,Île-de-France,77,Seine-et-Marne,247700057,41609,8,5175.25
+Mitry-Mory,11,Île-de-France,77,Seine-et-Marne,200055655,20620,30,688.48
+Moissy-Cramayel,11,Île-de-France,77,Seine-et-Marne,200059228,17982,14,1259.24
+Montereau-Fault-Yonne,11,Île-de-France,77,Seine-et-Marne,247700107,21888,9,2405.27
+Montévrain,11,Île-de-France,77,Seine-et-Marne,247700594,14017,5,2576.65
+Moret-Loing-et-Orvanne,11,Île-de-France,77,Seine-et-Marne,247700032,12507,5,374.46
+Nemours,11,Île-de-France,77,Seine-et-Marne,200023240,12966,10,1197.23
+Noisiel,11,Île-de-France,77,Seine-et-Marne,200057958,15750,4,3620.69
+Ozoir-la-Ferrière,11,Île-de-France,77,Seine-et-Marne,200023125,20712,16,1329.4
+Pontault-Combault,11,Île-de-France,77,Seine-et-Marne,200057958,37579,14,2755.06
+Provins,11,Île-de-France,77,Seine-et-Marne,200037133,12115,15,823.03
+Roissy-en-Brie,11,Île-de-France,77,Seine-et-Marne,200057958,22643,14,1658.83
+Saint-Fargeau-Ponthierry,11,Île-de-France,77,Seine-et-Marne,247700057,14315,17,863.91
+Savigny-le-Temple,11,Île-de-France,77,Seine-et-Marne,200059228,30169,12,2520.38
+Thorigny-sur-Marne,11,Île-de-France,77,Seine-et-Marne,247700594,10427,5,2016.83
+Torcy,11,Île-de-France,77,Seine-et-Marne,200057958,22500,6,3750.0
+Vaires-sur-Marne,11,Île-de-France,77,Seine-et-Marne,200057958,13340,6,2215.95
+Vaux-le-Pénil,11,Île-de-France,77,Seine-et-Marne,247700057,11102,12,953.78
+Villeparisis,11,Île-de-France,77,Seine-et-Marne,200055655,26700,8,3220.75
+Achères,11,Île-de-France,78,Yvelines,200059889,21660,10,2294.49
+Andrésy,11,Île-de-France,78,Yvelines,200059889,13236,7,1915.48
+Aubergenville,11,Île-de-France,78,Yvelines,200059889,12082,9,1368.29
+Bois-d'Arcy,11,Île-de-France,78,Yvelines,247800584,15028,6,2742.34
+Carrières-sous-Poissy,11,Île-de-France,78,Yvelines,200059889,17417,7,2422.39
+Carrières-sur-Seine,11,Île-de-France,78,Yvelines,200058519,15115,5,3010.96
+La Celle-Saint-Cloud,11,Île-de-France,78,Yvelines,247800584,20496,6,3521.65
+Chanteloup-les-Vignes,11,Île-de-France,78,Yvelines,200059889,10730,3,3222.22
+Chatou,11,Île-de-France,78,Yvelines,200058519,29709,5,5848.23
+Le Chesnay-Rocquencourt,11,Île-de-France,78,Yvelines,247800584,31057,4,4424.07
+Les Clayes-sous-Bois,11,Île-de-France,78,Yvelines,200058782,17378,6,2844.19
+Conflans-Sainte-Honorine,11,Île-de-France,78,Yvelines,200059889,35957,10,3632.02
+Croissy-sur-Seine,11,Île-de-France,78,Yvelines,200058519,10324,3,3001.16
+Élancourt,11,Île-de-France,78,Yvelines,200058782,25857,9,3038.43
+Fontenay-le-Fleury,11,Île-de-France,78,Yvelines,247800584,13518,6,2489.5
+Guyancourt,11,Île-de-France,78,Yvelines,200058782,29269,13,2251.46
+Houilles,11,Île-de-France,78,Yvelines,200058519,33250,4,7505.64
+Limay,11,Île-de-France,78,Yvelines,200059889,17112,12,1490.59
+Maisons-Laffitte,11,Île-de-France,78,Yvelines,200058519,23204,7,3437.63
+Mantes-la-Jolie,11,Île-de-France,78,Yvelines,200059889,43945,9,4684.97
+Mantes-la-Ville,11,Île-de-France,78,Yvelines,200059889,20844,6,3439.6
+Marly-le-Roi,11,Île-de-France,78,Yvelines,200058519,16352,7,2500.31
+Maurepas,11,Île-de-France,78,Yvelines,200058782,18046,8,2168.99
+Montesson,11,Île-de-France,78,Yvelines,200058519,14811,7,2012.36
+Montigny-le-Bretonneux,11,Île-de-France,78,Yvelines,200058782,31854,11,2734.25
+Les Mureaux,11,Île-de-France,78,Yvelines,200059889,33543,12,2797.58
+Le Pecq,11,Île-de-France,78,Yvelines,200058519,15792,3,5560.56
+Plaisir,11,Île-de-France,78,Yvelines,200058782,30897,18,1654.01
+Poissy,11,Île-de-France,78,Yvelines,200059889,39731,13,2991.79
+Rambouillet,11,Île-de-France,78,Yvelines,200073344,27043,36,768.49
+Saint-Cyr-l'École,11,Île-de-France,78,Yvelines,247800584,20611,5,4113.97
+Saint-Germain-en-Laye,11,Île-de-France,78,Yvelines,200058519,44410,49,855.03
+Sartrouville,11,Île-de-France,78,Yvelines,200058519,51746,8,6116.55
+Trappes,11,Île-de-France,78,Yvelines,200058782,33419,14,2480.99
+Triel-sur-Seine,11,Île-de-France,78,Yvelines,200059889,12360,14,910.16
+Vélizy-Villacoublay,11,Île-de-France,78,Yvelines,247800584,22836,9,2557.22
+Verneuil-sur-Seine,11,Île-de-France,78,Yvelines,200059889,15959,10,1692.36
+Vernouillet,11,Île-de-France,78,Yvelines,200059889,10266,7,1584.26
+Versailles,11,Île-de-France,78,Yvelines,247800584,83583,26,3192.63
+Le Vésinet,11,Île-de-France,78,Yvelines,200058519,15619,5,3123.8
+Villepreux,11,Île-de-France,78,Yvelines,200058782,11044,10,1061.92
+Viroflay,11,Île-de-France,78,Yvelines,247800584,16744,3,4797.71
+Voisins-le-Bretonneux,11,Île-de-France,78,Yvelines,200058782,10722,4,4505.04
+Bressuire,75,Nouvelle-Aquitaine,79,Deux-Sèvres,200040244,19862,182,109.98
+Niort,75,Nouvelle-Aquitaine,79,Deux-Sèvres,200041317,58966,68,864.6
+Parthenay,75,Nouvelle-Aquitaine,79,Deux-Sèvres,200041333,10108,11,888.22
+Thouars,75,Nouvelle-Aquitaine,79,Deux-Sèvres,247900798,13917,12,170.8
+Abbeville,32,Hauts-de-France,80,Somme,200070993,22895,26,866.58
+Amiens,32,Hauts-de-France,80,Somme,248000531,134167,50,2696.28
+Albi,76,Occitanie,81,Tarn,248100737,49094,45,1109.22
+Castres,76,Occitanie,81,Tarn,248100430,42394,99,431.84
+Gaillac,76,Occitanie,81,Tarn,200066124,15245,51,299.33
+Graulhet,76,Occitanie,81,Tarn,200066124,12914,58,227.56
+Lavaur,76,Occitanie,81,Tarn,200034023,10820,63,172.21
+Castelsarrasin,76,Occitanie,82,Tarn-et-Garonne,200066322,14131,77,184.07
+Moissac,76,Occitanie,82,Tarn-et-Garonne,200066322,13738,86,159.84
+Montauban,76,Occitanie,82,Tarn-et-Garonne,248200099,61677,136,456.29
+Brignoles,93,Provence-Alpes-Côte d'Azur,83,Var,200068104,17652,71,250.28
+Cogolin,93,Provence-Alpes-Côte d'Azur,83,Var,200036077,11794,28,422.27
+La Crau,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,19052,38,503.09
+Cuers,93,Provence-Alpes-Côte d'Azur,83,Var,200027100,12298,51,243.38
+Draguignan,93,Provence-Alpes-Côte d'Azur,83,Var,248300493,39434,54,733.66
+Fréjus,93,Provence-Alpes-Côte d'Azur,83,Var,200035319,55750,105,545.13
+La Garde,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,25563,16,1644.98
+Hyères,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,54615,134,412.56
+La Londe-les-Maures,93,Provence-Alpes-Côte d'Azur,83,Var,200027100,11493,80,144.95
+Le Luc,93,Provence-Alpes-Côte d'Azur,83,Var,248300550,11058,44,250.41
+Ollioules,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,13991,20,703.42
+Le Pradet,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,10496,10,1052.76
+Roquebrune-sur-Argens,93,Provence-Alpes-Côte d'Azur,83,Var,200035319,14335,107,135.11
+Saint-Cyr-sur-Mer,93,Provence-Alpes-Côte d'Azur,83,Var,248300394,12058,22,570.12
+Sainte-Maxime,93,Provence-Alpes-Côte d'Azur,83,Var,200036077,14750,82,180.74
+Saint-Maximin-la-Sainte-Baume,93,Provence-Alpes-Côte d'Azur,83,Var,200068104,17468,65,272.38
+Saint-Raphaël,93,Provence-Alpes-Côte d'Azur,83,Var,200035319,35881,91,400.5
+Sanary-sur-Mer,93,Provence-Alpes-Côte d'Azur,83,Var,248300394,17173,20,893.03
+La Seyne-sur-Mer,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,62232,24,2807.04
+Six-Fours-les-Plages,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,35339,27,1329.53
+Solliès-Pont,93,Provence-Alpes-Côte d'Azur,83,Var,248300410,11974,18,675.35
+Toulon,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,179659,44,4193.72
+La Valette-du-Var,93,Provence-Alpes-Côte d'Azur,83,Var,248300543,24114,15,1555.74
+Vidauban,93,Provence-Alpes-Côte d'Azur,83,Var,248300493,12693,76,171.69
+Apt,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200040624,10889,45,244.31
+Avignon,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400251,90597,65,1395.73
+Bollène,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200000628,13830,54,255.97
+Carpentras,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400053,29865,38,787.58
+Cavaillon,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200040442,25832,46,562.05
+L'Isle-sur-la-Sorgue,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400319,20029,45,449.38
+Monteux,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400293,12979,39,332.62
+Orange,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400236,28454,74,383.48
+Pernes-les-Fontaines,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400293,10294,51,201.37
+Pertuis,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200054807,20498,59,309.5
+Le Pontet,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400251,17018,11,1580.13
+Sorgues,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400293,18930,34,566.77
+Vedène,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,248400251,11423,11,1021.74
+Aizenay,52,Pays de la Loire,85,Vendée,200072882,10067,82,124.19
+Challans,52,Pays de la Loire,85,Vendée,200071629,21900,65,337.75
+Fontenay-le-Comte,52,Pays de la Loire,85,Vendée,200071934,13138,34,385.84
+Les Herbiers,52,Pays de la Loire,85,Vendée,248500621,16266,89,183.22
+Montaigu-Vendée,52,Pays de la Loire,85,Vendée,200070233,20578,3,176.41
+La Roche-sur-Yon,52,Pays de la Loire,85,Vendée,248500589,55213,88,630.86
+Les Sables-d'Olonne,52,Pays de la Loire,85,Vendée,200071165,46941,9,547.99
+Saint-Hilaire-de-Riez,52,Pays de la Loire,85,Vendée,200023778,12137,49,248.45
+Buxerolles,75,Nouvelle-Aquitaine,86,Vienne,200069854,10001,9,1099.01
+Châtellerault,75,Nouvelle-Aquitaine,86,Vienne,248600413,31573,52,607.99
+Poitiers,75,Nouvelle-Aquitaine,86,Vienne,200069854,90033,42,2138.04
+Limoges,75,Nouvelle-Aquitaine,87,Haute-Vienne,248719312,130592,80,1673.61
+Panazol,75,Nouvelle-Aquitaine,87,Haute-Vienne,248719312,11002,20,548.73
+Saint-Junien,75,Nouvelle-Aquitaine,87,Haute-Vienne,200059400,11295,59,198.79
+Épinal,44,Grand Est,88,Vosges,200068757,31832,59,537.34
+Saint-Dié-des-Vosges,44,Grand Est,88,Vosges,200071066,19490,46,422.32
+Auxerre,27,Bourgogne-Franche-Comté,89,Yonne,200067114,34151,50,683.7
+Sens,27,Bourgogne-Franche-Comté,89,Yonne,248900334,26854,22,1226.21
+Belfort,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,200069052,45458,17,2658.36
+Arpajon,11,Île-de-France,91,Essonne,200057859,11165,2,4652.08
+Athis-Mons,11,Île-de-France,91,Essonne,200054781,35641,9,4163.67
+Bondoufle,11,Île-de-France,91,Essonne,200059228,10326,7,1527.51
+Brétigny-sur-Orge,11,Île-de-France,91,Essonne,200057859,27006,15,1854.81
+Brunoy,11,Île-de-France,91,Essonne,200058477,25344,7,3828.4
+Chilly-Mazarin,11,Île-de-France,91,Essonne,200056232,19943,6,3580.43
+Corbeil-Essonnes,11,Île-de-France,91,Essonne,200059228,52340,11,4753.86
+Dourdan,11,Île-de-France,91,Essonne,249100595,10733,31,350.29
+Draveil,11,Île-de-France,91,Essonne,200058477,28595,16,1815.56
+Épinay-sous-Sénart,11,Île-de-France,91,Essonne,200058477,12197,4,3406.98
+Épinay-sur-Orge,11,Île-de-France,91,Essonne,200056232,11102,4,2500.45
+Étampes,11,Île-de-France,91,Essonne,200017846,26251,46,641.52
+Évry-Courcouronnes,11,Île-de-France,91,Essonne,200059228,66106,9,5205.2
+Fleury-Mérogis,11,Île-de-France,91,Essonne,200057859,13708,6,2105.68
+Gif-sur-Yvette,11,Île-de-France,91,Essonne,200056232,21439,12,1848.19
+Grigny,11,Île-de-France,91,Essonne,200059228,27571,5,5661.4
+Igny,11,Île-de-France,91,Essonne,200056232,10157,4,2658.9
+Juvisy-sur-Orge,11,Île-de-France,91,Essonne,200054781,17656,2,7882.14
+Longjumeau,11,Île-de-France,91,Essonne,200056232,21105,5,4360.54
+Massy,11,Île-de-France,91,Essonne,200056232,50506,9,5355.89
+Mennecy,11,Île-de-France,91,Essonne,249100546,15669,11,1412.89
+Montgeron,11,Île-de-France,91,Essonne,200058477,23943,11,2133.96
+Morangis,11,Île-de-France,91,Essonne,200054781,13131,5,2735.62
+Morsang-sur-Orge,11,Île-de-France,91,Essonne,200057859,20149,4,4589.75
+Orsay,11,Île-de-France,91,Essonne,200056232,15554,8,1951.57
+Palaiseau,11,Île-de-France,91,Essonne,200056232,34750,12,3019.11
+Ris-Orangis,11,Île-de-France,91,Essonne,200059228,29643,8,3403.33
+Sainte-Geneviève-des-Bois,11,Île-de-France,91,Essonne,200057859,35879,9,3870.44
+Saint-Germain-lès-Arpajon,11,Île-de-France,91,Essonne,200057859,11068,6,1754.04
+Saint-Michel-sur-Orge,11,Île-de-France,91,Essonne,200057859,21298,5,4026.09
+Saint-Pierre-du-Perray,11,Île-de-France,91,Essonne,200059228,11514,12,993.44
+Savigny-sur-Orge,11,Île-de-France,91,Essonne,200054781,37190,7,5335.72
+Verrières-le-Buisson,11,Île-de-France,91,Essonne,200056232,14602,10,1473.46
+Vigneux-sur-Seine,11,Île-de-France,91,Essonne,200058477,31495,9,3591.22
+Villebon-sur-Yvette,11,Île-de-France,91,Essonne,200056232,10406,7,1404.32
+Viry-Châtillon,11,Île-de-France,91,Essonne,200054781,31098,6,5123.23
+Yerres,11,Île-de-France,91,Essonne,200058477,29097,10,2957.01
+Les Ulis,11,Île-de-France,91,Essonne,200056232,25165,5,4858.11
+Antony,11,Île-de-France,92,Hauts-de-Seine,200054781,62906,10,6580.13
+Asnières-sur-Seine,11,Île-de-France,92,Hauts-de-Seine,200054781,88004,5,18258.09
+Bagneux,11,Île-de-France,92,Hauts-de-Seine,200054781,41967,4,10015.99
+Bois-Colombes,11,Île-de-France,92,Hauts-de-Seine,200054781,29555,2,15393.23
+Boulogne-Billancourt,11,Île-de-France,92,Hauts-de-Seine,200054781,120911,6,19596.6
+Bourg-la-Reine,11,Île-de-France,92,Hauts-de-Seine,200054781,20974,2,11276.34
+Châtenay-Malabry,11,Île-de-France,92,Hauts-de-Seine,200054781,34383,6,5389.18
+Châtillon,11,Île-de-France,92,Hauts-de-Seine,200054781,36392,3,12463.01
+Chaville,11,Île-de-France,92,Hauts-de-Seine,200054781,20524,4,5781.41
+Clamart,11,Île-de-France,92,Hauts-de-Seine,200054781,53179,9,6063.74
+Clichy,11,Île-de-France,92,Hauts-de-Seine,200054781,62933,3,20432.79
+Colombes,11,Île-de-France,92,Hauts-de-Seine,200054781,86775,8,11110.76
+Courbevoie,11,Île-de-France,92,Hauts-de-Seine,200054781,82074,4,19682.01
+Fontenay-aux-Roses,11,Île-de-France,92,Hauts-de-Seine,200054781,25174,3,10029.48
+Garches,11,Île-de-France,92,Hauts-de-Seine,200054781,17557,3,6526.77
+La Garenne-Colombes,11,Île-de-France,92,Hauts-de-Seine,200054781,29624,2,16642.7
+Gennevilliers,11,Île-de-France,92,Hauts-de-Seine,200054781,49880,12,4285.22
+Issy-les-Moulineaux,11,Île-de-France,92,Hauts-de-Seine,200054781,67937,4,15985.18
+Levallois-Perret,11,Île-de-France,92,Hauts-de-Seine,200054781,67258,2,27907.88
+Malakoff,11,Île-de-France,92,Hauts-de-Seine,200054781,31230,2,15086.96
+Meudon,11,Île-de-France,92,Hauts-de-Seine,200054781,45825,10,4628.79
+Montrouge,11,Île-de-France,92,Hauts-de-Seine,200054781,47907,2,23143.48
+Nanterre,11,Île-de-France,92,Hauts-de-Seine,200054781,95782,12,7857.42
+Neuilly-sur-Seine,11,Île-de-France,92,Hauts-de-Seine,200054781,59388,4,15921.72
+Le Plessis-Robinson,11,Île-de-France,92,Hauts-de-Seine,200054781,29562,3,8618.66
+Puteaux,11,Île-de-France,92,Hauts-de-Seine,200054781,44009,3,13795.92
+Rueil-Malmaison,11,Île-de-France,92,Hauts-de-Seine,200054781,78265,15,5324.15
+Saint-Cloud,11,Île-de-France,92,Hauts-de-Seine,200054781,29560,8,3910.05
+Sceaux,11,Île-de-France,92,Hauts-de-Seine,200054781,20359,4,5655.28
+Sèvres,11,Île-de-France,92,Hauts-de-Seine,200054781,23108,4,5909.97
+Suresnes,11,Île-de-France,92,Hauts-de-Seine,200054781,49482,4,13055.94
+Vanves,11,Île-de-France,92,Hauts-de-Seine,200054781,27871,2,17866.03
+Ville-d'Avray,11,Île-de-France,92,Hauts-de-Seine,200054781,10883,4,2965.4
+Villeneuve-la-Garenne,11,Île-de-France,92,Hauts-de-Seine,200054781,24592,3,7685.0
+Aubervilliers,11,Île-de-France,93,Seine-Saint-Denis,200054781,89401,6,15521.01
+Aulnay-sous-Bois,11,Île-de-France,93,Seine-Saint-Denis,200054781,86485,16,5338.58
+Bagnolet,11,Île-de-France,93,Seine-Saint-Denis,200054781,38470,3,14968.87
+Le Blanc-Mesnil,11,Île-de-France,93,Seine-Saint-Denis,200054781,57989,8,7203.6
+Bobigny,11,Île-de-France,93,Seine-Saint-Denis,200054781,54906,7,8110.19
+Bondy,11,Île-de-France,93,Seine-Saint-Denis,200054781,53342,5,9751.74
+Le Bourget,11,Île-de-France,93,Seine-Saint-Denis,200054781,15660,2,7528.85
+Clichy-sous-Bois,11,Île-de-France,93,Seine-Saint-Denis,200054781,29568,4,7485.57
+La Courneuve,11,Île-de-France,93,Seine-Saint-Denis,200054781,46828,8,6227.13
+Drancy,11,Île-de-France,93,Seine-Saint-Denis,200054781,71276,8,9185.05
+Dugny,11,Île-de-France,93,Seine-Saint-Denis,200054781,11200,4,2879.18
+Épinay-sur-Seine,11,Île-de-France,93,Seine-Saint-Denis,200054781,54419,5,11907.88
+Gagny,11,Île-de-France,93,Seine-Saint-Denis,200054781,39588,7,5796.19
+Les Lilas,11,Île-de-France,93,Seine-Saint-Denis,200054781,23276,1,18473.02
+Livry-Gargan,11,Île-de-France,93,Seine-Saint-Denis,200054781,45618,7,6181.3
+Montfermeil,11,Île-de-France,93,Seine-Saint-Denis,200054781,28006,5,5138.72
+Montreuil,11,Île-de-France,93,Seine-Saint-Denis,200054781,111367,9,12485.09
+Neuilly-Plaisance,11,Île-de-France,93,Seine-Saint-Denis,200054781,20934,3,6121.05
+Neuilly-sur-Marne,11,Île-de-France,93,Seine-Saint-Denis,200054781,36535,7,5325.8
+Noisy-le-Grand,11,Île-de-France,93,Seine-Saint-Denis,200054781,68930,13,5322.78
+Noisy-le-Sec,11,Île-de-France,93,Seine-Saint-Denis,200054781,45043,5,8937.1
+Pantin,11,Île-de-France,93,Seine-Saint-Denis,200054781,60419,5,12059.68
+Les Pavillons-sous-Bois,11,Île-de-France,93,Seine-Saint-Denis,200054781,23904,3,8186.3
+Pierrefitte-sur-Seine,11,Île-de-France,93,Seine-Saint-Denis,200054781,31344,3,9191.79
+Le Pré-Saint-Gervais,11,Île-de-France,93,Seine-Saint-Denis,200054781,17290,1,24700.0
+Le Raincy,11,Île-de-France,93,Seine-Saint-Denis,200054781,14753,2,6586.16
+Romainville,11,Île-de-France,93,Seine-Saint-Denis,200054781,31469,3,9147.97
+Rosny-sous-Bois,11,Île-de-France,93,Seine-Saint-Denis,200054781,45442,6,7689.0
+Saint-Denis,11,Île-de-France,93,Seine-Saint-Denis,200054781,113116,12,9151.78
+Saint-Ouen-sur-Seine,11,Île-de-France,93,Seine-Saint-Denis,200054781,51547,4,11959.86
+Sevran,11,Île-de-France,93,Seine-Saint-Denis,200054781,51778,7,7112.36
+Stains,11,Île-de-France,93,Seine-Saint-Denis,200054781,39193,5,7271.43
+Tremblay-en-France,11,Île-de-France,93,Seine-Saint-Denis,200054781,36477,23,1625.53
+Villemomble,11,Île-de-France,93,Seine-Saint-Denis,200054781,30583,4,7570.05
+Villepinte,11,Île-de-France,93,Seine-Saint-Denis,200054781,38204,10,3684.09
+Villetaneuse,11,Île-de-France,93,Seine-Saint-Denis,200054781,13433,2,5815.15
+Alfortville,11,Île-de-France,94,Val-de-Marne,200054781,45151,4,12302.72
+Arcueil,11,Île-de-France,94,Val-de-Marne,200054781,21840,2,9373.39
+Boissy-Saint-Léger,11,Île-de-France,94,Val-de-Marne,200054781,17286,9,1933.56
+Bonneuil-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,18424,6,3343.74
+Bry-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,17592,3,5251.34
+Cachan,11,Île-de-France,94,Val-de-Marne,200054781,30214,3,11027.01
+Champigny-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,77439,11,6853.01
+Charenton-le-Pont,11,Île-de-France,94,Val-de-Marne,200054781,29632,2,16017.3
+Chennevières-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,18011,5,3417.65
+Chevilly-Larue,11,Île-de-France,94,Val-de-Marne,200054781,20372,4,4827.49
+Choisy-le-Roi,11,Île-de-France,94,Val-de-Marne,200054781,46229,5,8513.63
+Créteil,11,Île-de-France,94,Val-de-Marne,200054781,92566,11,8077.31
+Fontenay-sous-Bois,11,Île-de-France,94,Val-de-Marne,200054781,51386,6,9208.96
+Fresnes,11,Île-de-France,94,Val-de-Marne,200054781,28556,4,8021.35
+Gentilly,11,Île-de-France,94,Val-de-Marne,200054781,18813,1,15943.22
+L'Haÿ-les-Roses,11,Île-de-France,94,Val-de-Marne,200054781,31647,4,8114.62
+Ivry-sur-Seine,11,Île-de-France,94,Val-de-Marne,200054781,64016,6,10494.43
+Joinville-le-Pont,11,Île-de-France,94,Val-de-Marne,200054781,19128,2,8316.52
+Le Kremlin-Bicêtre,11,Île-de-France,94,Val-de-Marne,200054781,24513,2,15917.53
+Limeil-Brévannes,11,Île-de-France,94,Val-de-Marne,200054781,28290,7,4082.25
+Maisons-Alfort,11,Île-de-France,94,Val-de-Marne,200054781,57639,5,10773.64
+Nogent-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,33578,3,11992.14
+Orly,11,Île-de-France,94,Val-de-Marne,200054781,24361,7,3641.41
+Ormesson-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,10528,3,3087.39
+Le Perreux-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,33697,4,8509.34
+Le Plessis-Trévise,11,Île-de-France,94,Val-de-Marne,200054781,19651,4,4548.84
+La Queue-en-Brie,11,Île-de-France,94,Val-de-Marne,200054781,12148,9,1326.2
+Saint-Mandé,11,Île-de-France,94,Val-de-Marne,200054781,21991,1,23903.26
+Saint-Maur-des-Fossés,11,Île-de-France,94,Val-de-Marne,200054781,74520,11,6624.0
+Saint-Maurice,11,Île-de-France,94,Val-de-Marne,200054781,14560,1,10181.82
+Sucy-en-Brie,11,Île-de-France,94,Val-de-Marne,200054781,27040,10,2592.52
+Thiais,11,Île-de-France,94,Val-de-Marne,200054781,30788,6,4788.18
+Valenton,11,Île-de-France,94,Val-de-Marne,200054781,14538,5,2737.85
+Villecresnes,11,Île-de-France,94,Val-de-Marne,200054781,11846,6,2107.83
+Villejuif,11,Île-de-France,94,Val-de-Marne,200054781,56349,5,10552.25
+Villeneuve-le-Roi,11,Île-de-France,94,Val-de-Marne,200054781,21411,8,2548.93
+Villeneuve-Saint-Georges,11,Île-de-France,94,Val-de-Marne,200054781,34845,8,3982.29
+Villiers-sur-Marne,11,Île-de-France,94,Val-de-Marne,200054781,29672,4,6852.66
+Vincennes,11,Île-de-France,94,Val-de-Marne,200054781,49697,2,26019.37
+Vitry-sur-Seine,11,Île-de-France,94,Val-de-Marne,200054781,95649,12,8196.14
+Argenteuil,11,Île-de-France,95,Val-d'Oise,200054781,108567,17,6304.7
+Arnouville,11,Île-de-France,95,Val-d'Oise,200055655,14364,3,5057.75
+Bezons,11,Île-de-France,95,Val-d'Oise,200058519,31866,4,7660.1
+Cergy,11,Île-de-France,95,Val-d'Oise,249500109,67790,15,5818.88
+Cormeilles-en-Parisis,11,Île-de-France,95,Val-d'Oise,200058485,26074,8,3074.76
+Deuil-la-Barre,11,Île-de-France,95,Val-d'Oise,200056380,22050,4,5864.36
+Domont,11,Île-de-France,95,Val-d'Oise,200056380,15685,9,1882.95
+Eaubonne,11,Île-de-France,95,Val-d'Oise,200058485,25498,4,5768.78
+Enghien-les-Bains,11,Île-de-France,95,Val-d'Oise,200056380,11416,2,6449.72
+Éragny,11,Île-de-France,95,Val-d'Oise,249500109,18317,5,3880.72
+Ermont,11,Île-de-France,95,Val-d'Oise,200058485,29230,4,7026.44
+Franconville,11,Île-de-France,95,Val-d'Oise,200058485,37347,6,6033.44
+Garges-lès-Gonesse,11,Île-de-France,95,Val-d'Oise,200055655,43215,5,7900.37
+Gonesse,11,Île-de-France,95,Val-d'Oise,200055655,25853,20,1286.86
+Goussainville,11,Île-de-France,95,Val-d'Oise,200055655,30910,11,2683.16
+Herblay-sur-Seine,11,Île-de-France,95,Val-d'Oise,200058485,31747,13,2491.92
+L'Isle-Adam,11,Île-de-France,95,Val-d'Oise,249500455,11723,16,784.67
+Jouy-le-Moutier,11,Île-de-France,95,Val-d'Oise,249500109,17225,7,2500.0
+Louvres,11,Île-de-France,95,Val-d'Oise,200055655,11356,11,1002.29
+Montigny-lès-Cormeilles,11,Île-de-France,95,Val-d'Oise,200058485,22186,4,5451.11
+Montmagny,11,Île-de-France,95,Val-d'Oise,200056380,14550,3,5000.0
+Montmorency,11,Île-de-France,95,Val-d'Oise,200056380,21688,5,4038.73
+Osny,11,Île-de-France,95,Val-d'Oise,249500109,17111,12,1366.69
+Persan,11,Île-de-France,95,Val-d'Oise,249500489,14029,5,2729.38
+Pontoise,11,Île-de-France,95,Val-d'Oise,249500109,31973,7,4471.75
+Saint-Brice-sous-Forêt,11,Île-de-France,95,Val-d'Oise,200056380,15102,6,2517.0
+Saint-Gratien,11,Île-de-France,95,Val-d'Oise,200056380,20914,3,8642.15
+Saint-Leu-la-Forêt,11,Île-de-France,95,Val-d'Oise,200058485,16076,5,3067.94
+Saint-Ouen-l'Aumône,11,Île-de-France,95,Val-d'Oise,249500109,24743,14,2026.45
+Sannois,11,Île-de-France,95,Val-d'Oise,200058485,26524,5,5548.95
+Sarcelles,11,Île-de-France,95,Val-d'Oise,200055655,58483,8,6921.07
+Soisy-sous-Montmorency,11,Île-de-France,95,Val-d'Oise,200056380,18061,4,4537.94
+Taverny,11,Île-de-France,95,Val-d'Oise,200058485,26607,10,2538.84
+Vauréal,11,Île-de-France,95,Val-d'Oise,249500109,16020,4,4630.06
+Villiers-le-Bel,11,Île-de-France,95,Val-d'Oise,200055655,28636,7,3922.74
+Les Abymes,1,Guadeloupe,971,Guadeloupe,200018653,52948,70,651.67
+Baie-Mahault,1,Guadeloupe,971,Guadeloupe,200018653,30316,47,659.04
+Capesterre-Belle-Eau,1,Guadeloupe,971,Guadeloupe,249710070,17628,103,170.65
+Le Gosier,1,Guadeloupe,971,Guadeloupe,200041507,26919,45,595.55
+Lamentin,1,Guadeloupe,971,Guadeloupe,249710062,17774,65,270.95
+Morne-à-l'Eau,1,Guadeloupe,971,Guadeloupe,200044691,16223,68,251.52
+Le Moule,1,Guadeloupe,971,Guadeloupe,200044691,22230,83,268.35
+Petit-Bourg,1,Guadeloupe,971,Guadeloupe,249710062,24412,131,187.96
+Pointe-à-Pitre,1,Guadeloupe,971,Guadeloupe,200018653,14498,3,5450.38
+Saint-Claude,1,Guadeloupe,971,Guadeloupe,249710070,10506,34,306.3
+Saint-François,1,Guadeloupe,971,Guadeloupe,200041507,12184,61,199.74
+Sainte-Anne,1,Guadeloupe,971,Guadeloupe,200041507,24430,81,304.27
+Sainte-Rose,1,Guadeloupe,971,Guadeloupe,249710062,17840,124,150.42
+Ducos,2,Martinique,972,Martinique,249720053,17504,31,464.42
+Fort-de-France,2,Martinique,972,Martinique,249720061,75286,44,1702.92
+Le François,2,Martinique,972,Martinique,249720053,16082,55,298.2
+Le Lamentin,2,Martinique,972,Martinique,249720061,39628,68,635.88
+Rivière-Pilote,2,Martinique,972,Martinique,249720053,11675,36,326.3
+Rivière-Salée,2,Martinique,972,Martinique,249720053,11780,43,299.14
+Le Robert,2,Martinique,972,Martinique,200041788,21627,46,457.23
+Saint-Esprit,2,Martinique,972,Martinique,249720053,10120,23,431.37
+Saint-Joseph,2,Martinique,972,Martinique,249720061,16137,43,372.77
+Sainte-Marie,2,Martinique,972,Martinique,200041788,14843,45,333.18
+Schœlcher,2,Martinique,972,Martinique,249720061,19467,21,919.56
+La Trinité,2,Martinique,972,Martinique,200041788,11860,46,259.12
+Cayenne,3,Guyane,973,Guyane,249730045,65956,31,2794.75
+Kourou,3,Guyane,973,Guyane,200027548,24805,2285,11.48
+Macouria,3,Guyane,973,Guyane,249730045,19087,309,50.56
+Mana,3,Guyane,973,Guyane,249730037,11605,6708,1.83
+Matoury,3,Guyane,973,Guyane,249730045,34474,149,251.29
+Remire-Montjoly,3,Guyane,973,Guyane,249730045,25793,51,559.38
+Saint-Laurent-du-Maroni,3,Guyane,973,Guyane,249730037,49173,4151,10.18
+Les Avirons,4,La Réunion,974,La Réunion,249740077,11470,26,436.62
+Bras-Panon,4,La Réunion,974,La Réunion,249740093,13416,87,151.51
+L'Étang-Salé,4,La Réunion,974,La Réunion,249740077,13645,38,353.04
+Petite-Île,4,La Réunion,974,La Réunion,249740077,12401,34,365.49
+Le Port,4,La Réunion,974,La Réunion,249740101,32619,16,1962.64
+La Possession,4,La Réunion,974,La Réunion,249740101,33370,119,281.96
+Saint-André,4,La Réunion,974,La Réunion,249740093,56857,54,1071.36
+Saint-Benoît,4,La Réunion,974,La Réunion,249740093,36994,230,161.12
+Saint-Denis,4,La Réunion,974,La Réunion,249740119,153001,142,1071.51
+Saint-Joseph,4,La Réunion,974,La Réunion,249740085,38465,178,215.49
+Saint-Leu,4,La Réunion,974,La Réunion,249740101,34740,118,293.49
+Saint-Louis,4,La Réunion,974,La Réunion,249740077,53744,99,543.42
+Saint-Paul,4,La Réunion,974,La Réunion,249740101,104301,240,432.28
+Saint-Pierre,4,La Réunion,974,La Réunion,249740077,83930,96,874.36
+Sainte-Marie,4,La Réunion,974,La Réunion,249740119,34350,89,393.88
+Sainte-Suzanne,4,La Réunion,974,La Réunion,249740119,24086,58,416.42
+Le Tampon,4,La Réunion,974,La Réunion,249740085,80778,181,488.29
+Bandraboua,6,Mayotte,976,Mayotte,200060465,13989,31,
+Bandrele,6,Mayotte,976,Mayotte,200060473,10282,35,
+Dembeni,6,Mayotte,976,Mayotte,200060457,15848,38,
+Dzaoudzi,6,Mayotte,976,Mayotte,200050532,17831,6,
+Koungou,6,Mayotte,976,Mayotte,200060465,32156,28,
+Mamoudzou,6,Mayotte,976,Mayotte,200060457,71437,42,
+Ouangani,6,Mayotte,976,Mayotte,200059871,10203,18,
+Pamandzi,6,Mayotte,976,Mayotte,200050532,11442,4,
+Sada,6,Mayotte,976,Mayotte,200059871,11156,11,
+Tsingoni,6,Mayotte,976,Mayotte,200059871,13934,34,
